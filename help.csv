@@ -1,0 +1,652 @@
+BaseSymbol_1,Index,01-01-001-01,S100,U+FD830,󽠰,6,16
+BaseSymbol_2,Index on Circle,01-01-002-01,S101,U+FD831,󽠱,6,16
+BaseSymbol_3,Index on Cup,01-01-003-01,S102,U+FD832,󽠲,6,16
+BaseSymbol_4,Index on Oval,01-01-004-01,S103,U+FD833,󽠳,6,16
+BaseSymbol_5,Index on Hinge,01-01-005-01,S104,U+FD834,󽠴,6,16
+BaseSymbol_6,Index on Angle,01-01-006-01,S105,U+FD835,󽠵,6,16
+BaseSymbol_7,Index Bent,01-01-007-01,S106,U+FD836,󽠶,6,16
+BaseSymbol_8,Index Bent on Circle,01-01-008-01,S107,U+FD837,󽠷,6,16
+BaseSymbol_9,Index Bent on Fist Thumb Under,01-01-009-01,S108,U+FD838,󽠸,6,16
+BaseSymbol_10,Index Raised Knuckle,01-01-010-01,S109,U+FD839,󽠹,6,16
+BaseSymbol_11,Index Cup,01-01-011-01,S10a,U+FD83A,󽠺,6,16
+BaseSymbol_12,Index Hinge on Fist,01-01-012-01,S10b,U+FD83B,󽠻,6,16
+BaseSymbol_13,Index Hinge on Fist Low,01-01-013-01,S10c,U+FD83C,󽠼,6,16
+BaseSymbol_14,Index Hinge on Circle,01-01-014-01,S10d,U+FD83D,󽠽,6,16
+BaseSymbol_15,Index Middle,01-02-001-01,S10e,U+FD83E,󽠾,6,16
+BaseSymbol_16,Index Middle on Circle,01-02-002-01,S10f,U+FD83F,󽠿,6,16
+BaseSymbol_17,Index Middle Bent,01-02-003-01,S110,U+FD840,󽡀,6,16
+BaseSymbol_18,Index Middle Raised Knuckles,01-02-004-01,S111,U+FD841,󽡁,6,16
+BaseSymbol_19,Index Middle Hinge,01-02-005-01,S112,U+FD842,󽡂,6,16
+BaseSymbol_20,"Index Up, Middle Hinge",01-02-006-01,S113,U+FD843,󽡃,6,16
+BaseSymbol_21,"Index Hinge, Middle Up",01-02-007-01,S114,U+FD844,󽡄,6,16
+BaseSymbol_22,Index Middle Unit,01-02-008-01,S115,U+FD845,󽡅,6,16
+BaseSymbol_23,"Index Middle Unit, Index Bent",01-02-009-01,S116,U+FD846,󽡆,6,16
+BaseSymbol_24,"Index Middle Unit, Middle Bent",01-02-010-01,S117,U+FD847,󽡇,6,16
+BaseSymbol_25,"Index Middle Unit, Cup",01-02-011-01,S118,U+FD848,󽡈,6,16
+BaseSymbol_26,"Index Middle Unit, Hinge",01-02-012-01,S119,U+FD849,󽡉,6,16
+BaseSymbol_27,Index Middle Cross,01-02-013-01,S11a,U+FD84A,󽡊,6,16
+BaseSymbol_28,Index Middle Cross on Circle,01-02-014-01,S11b,U+FD84B,󽡋,6,16
+BaseSymbol_29,Middle Bent Over Index,01-02-015-01,S11c,U+FD84C,󽡌,6,16
+BaseSymbol_30,Index Bent Over Middle,01-02-016-01,S11d,U+FD84D,󽡍,6,16
+BaseSymbol_31,Index Middle Thumb,01-03-001-01,S11e,U+FD84E,󽡎,6,16
+BaseSymbol_32,Index Middle Thumb on Circle,01-03-002-01,S11f,U+FD84F,󽡏,6,16
+BaseSymbol_33,"Index Middle Straight, Thumb Bent",01-03-003-01,S120,U+FD850,󽡐,6,16
+BaseSymbol_34,"Index Middle Bent, Thumb Straight",01-03-004-01,S121,U+FD851,󽡑,6,16
+BaseSymbol_35,Index Middle Thumb Bent,01-03-005-01,S122,U+FD852,󽡒,6,16
+BaseSymbol_36,"Index Middle Hinge Spread, Thumb Side",01-03-006-01,S123,U+FD853,󽡓,6,16
+BaseSymbol_37,"Index Up, Middle Hinge, Thumb Side",01-03-007-01,S124,U+FD854,󽡔,6,16
+BaseSymbol_38,"Index Up, Middle Hinge, Thumb Unit",01-03-008-01,S125,U+FD855,󽡕,6,16
+BaseSymbol_39,"Index Hinge, Middle Up, Thumb Side",01-03-009-01,S126,U+FD856,󽡖,6,16
+BaseSymbol_40,"Index Middle Up Spread, Thumb Forward",01-03-010-01,S127,U+FD857,󽡗,6,16
+BaseSymbol_41,Index Middle Thumb Cup,01-03-011-01,S128,U+FD858,󽡘,6,16
+BaseSymbol_42,Index Middle Thumb Circle,01-03-012-01,S129,U+FD859,󽡙,6,16
+BaseSymbol_43,Index Middle Thumb Hook,01-03-013-01,S12a,U+FD85A,󽡚,6,16
+BaseSymbol_44,Index Middle Thumb Hinge,01-03-014-01,S12b,U+FD85B,󽡛,6,16
+BaseSymbol_45,Thumb Between Index Middle Straight,01-03-015-01,S12c,U+FD85C,󽡜,6,16
+BaseSymbol_46,"Index Middle Unit, Thumb Side",01-03-016-01,S12d,U+FD85D,󽡝,6,16
+BaseSymbol_47,"Index Middle Unit, Thumb Side Unit",01-03-017-01,S12e,U+FD85E,󽡞,6,16
+BaseSymbol_48,"Index Middle Unit, Thumb Side Bent",01-03-018-01,S12f,U+FD85F,󽡟,6,16
+BaseSymbol_49,"Middle Thumb Hook, Index Up",01-03-019-01,S130,U+FD860,󽡠,6,16
+BaseSymbol_50,"Index Thumb Hook, Middle Up",01-03-020-01,S131,U+FD861,󽡡,6,16
+BaseSymbol_51,"Index Middle Unit Hinge, Thumb Side",01-03-021-01,S132,U+FD862,󽡢,6,16
+BaseSymbol_52,"Index Middle Cross, Thumb Side",01-03-022-01,S133,U+FD863,󽡣,6,16
+BaseSymbol_53,"Index Middle Unit, Thumb Forward",01-03-023-01,S134,U+FD864,󽡤,6,16
+BaseSymbol_54,"Index Middle Unit Cup, Thumb Forward",01-03-024-01,S135,U+FD865,󽡥,6,16
+BaseSymbol_55,"Middle Thumb Cup, Index Up",01-03-025-01,S136,U+FD866,󽡦,6,16
+BaseSymbol_56,"Index Thumb Cup, Middle Up",01-03-026-01,S137,U+FD867,󽡧,6,16
+BaseSymbol_57,"Middle Thumb Circle, Index Up",01-03-027-01,S138,U+FD868,󽡨,6,16
+BaseSymbol_58,"Middle Thumb Circle, Index Hinge",01-03-028-01,S139,U+FD869,󽡩,6,16
+BaseSymbol_59,"Index Thumb Angle Out, Middle Up",01-03-029-01,S13a,U+FD86A,󽡪,6,16
+BaseSymbol_60,"Index Thumb Angle In, Middle Up",01-03-030-01,S13b,U+FD86B,󽡫,6,16
+BaseSymbol_61,"Index Thumb Circle, Middle Up",01-03-031-01,S13c,U+FD86C,󽡬,6,16
+BaseSymbol_62,"Index Middle Thumb, Unit Hinge",01-03-032-01,S13d,U+FD86D,󽡭,6,16
+BaseSymbol_63,"Index Middle Thumb, Angle Out",01-03-033-01,S13e,U+FD86E,󽡮,6,16
+BaseSymbol_64,"Index Middle Thumb, Angle",01-03-034-01,S13f,U+FD86F,󽡯,6,16
+BaseSymbol_65,"Middle Thumb Angle Out, Index Up",01-03-035-01,S140,U+FD870,󽡰,6,16
+BaseSymbol_66,"Middle Thumb Angle Out, Index Crossed",01-03-036-01,S141,U+FD871,󽡱,6,16
+BaseSymbol_67,"Middle Thumb Angle, Index Up",01-03-037-01,S142,U+FD872,󽡲,6,16
+BaseSymbol_68,"Index Thumb Hook, Middle Hinge",01-03-038-01,S143,U+FD873,󽡳,6,16
+BaseSymbol_69,Four Fingers,01-04-001-01,S144,U+FD874,󽡴,6,16
+BaseSymbol_70,Four Fingers Bent,01-04-002-01,S145,U+FD875,󽡵,6,16
+BaseSymbol_71,Four Fingers Hinge,01-04-003-01,S146,U+FD876,󽡶,6,16
+BaseSymbol_72,Four Fingers Unit,01-04-004-01,S147,U+FD877,󽡷,6,16
+BaseSymbol_73,Four Fingers Unit Split,01-04-005-01,S148,U+FD878,󽡸,6,16
+BaseSymbol_74,Four Fingers Unit Claw,01-04-006-01,S149,U+FD879,󽡹,6,16
+BaseSymbol_75,Four Fingers Unit Bent,01-04-007-01,S14a,U+FD87A,󽡺,6,16
+BaseSymbol_76,Four Fingers Unit Hinge,01-04-008-01,S14b,U+FD87B,󽡻,6,16
+BaseSymbol_77,Five Fingers Spread,01-05-001-01,S14c,U+FD87C,󽡼,6,16
+BaseSymbol_78,Five Fingers Spread Heel,01-05-002-01,S14d,U+FD87D,󽡽,2,16
+BaseSymbol_79,"Five Fingers Spread, Four Bent",01-05-003-01,S14e,U+FD87E,󽡾,6,16
+BaseSymbol_80,"Five Fingers Spread, Four Bent Heel",01-05-004-01,S14f,U+FD87F,󽡿,2,16
+BaseSymbol_81,Five Fingers Spread Bent,01-05-005-01,S150,U+FD880,󽢀,6,16
+BaseSymbol_82,Five Fingers Spread Bent Heel,01-05-006-01,S151,U+FD881,󽢁,2,16
+BaseSymbol_83,"Five Fingers Spread, Thumb Forward",01-05-007-01,S152,U+FD882,󽢂,6,16
+BaseSymbol_84,Five Fingers Spread Cup,01-05-008-01,S153,U+FD883,󽢃,6,16
+BaseSymbol_85,Five Fingers Spread Cup Open,01-05-009-01,S154,U+FD884,󽢄,6,16
+BaseSymbol_86,Five Fingers Spread Hinge Open,01-05-010-01,S155,U+FD885,󽢅,6,16
+BaseSymbol_87,Five Fingers Spread Oval,01-05-011-01,S156,U+FD886,󽢆,6,16
+BaseSymbol_88,Five Fingers Spread Hinge,01-05-012-01,S157,U+FD887,󽢇,6,16
+BaseSymbol_89,"Five Fingers Spread Hinge, Thumb Side",01-05-013-01,S158,U+FD888,󽢈,6,16
+BaseSymbol_90,"Five Fingers Spread Hinge, No Thumb",01-05-014-01,S159,U+FD889,󽢉,6,16
+BaseSymbol_91,Flat,01-05-015-01,S15a,U+FD88A,󽢊,6,16
+BaseSymbol_92,"Flat, Between Palm Facings",01-05-016-01,S15b,U+FD88B,󽢋,4,16
+BaseSymbol_93,Flat Heel,01-05-017-01,S15c,U+FD88C,󽢌,2,16
+BaseSymbol_94,"Flat, Thumb Side",01-05-018-01,S15d,U+FD88D,󽢍,6,16
+BaseSymbol_95,"Flat, Thumb Side Heel",01-05-019-01,S15e,U+FD88E,󽢎,2,16
+BaseSymbol_96,"Flat, Thumb Bent",01-05-020-01,S15f,U+FD88F,󽢏,6,16
+BaseSymbol_97,"Flat, Thumb Forward",01-05-021-01,S160,U+FD890,󽢐,6,16
+BaseSymbol_98,"Flat Split Index, Thumb Side",01-05-022-01,S161,U+FD891,󽢑,6,16
+BaseSymbol_99,Flat Split Center,01-05-023-01,S162,U+FD892,󽢒,6,16
+BaseSymbol_100,"Flat Split Center, Thumb Side",01-05-024-01,S163,U+FD893,󽢓,6,16
+BaseSymbol_101,"Flat Split Center, Thumb Side Bent",01-05-025-01,S164,U+FD894,󽢔,6,16
+BaseSymbol_102,Flat Split Baby,01-05-026-01,S165,U+FD895,󽢕,6,16
+BaseSymbol_103,Claw,01-05-027-01,S166,U+FD896,󽢖,6,16
+BaseSymbol_104,"Claw, Thumb Side",01-05-028-01,S167,U+FD897,󽢗,6,16
+BaseSymbol_105,"Claw, No Thumb",01-05-029-01,S168,U+FD898,󽢘,6,16
+BaseSymbol_106,"Claw, Thumb Forward",01-05-030-01,S169,U+FD899,󽢙,6,16
+BaseSymbol_107,Hook Curlicue,01-05-031-01,S16a,U+FD89A,󽢚,6,16
+BaseSymbol_108,Hook,01-05-032-01,S16b,U+FD89B,󽢛,6,16
+BaseSymbol_109,Cup Open,01-05-033-01,S16c,U+FD89C,󽢜,6,16
+BaseSymbol_110,Cup,01-05-034-01,S16d,U+FD89D,󽢝,6,16
+BaseSymbol_111,"Cup Open, Thumb Side",01-05-035-01,S16e,U+FD89E,󽢞,6,16
+BaseSymbol_112,"Cup, Thumb Side",01-05-036-01,S16f,U+FD89F,󽢟,6,16
+BaseSymbol_113,"Cup Open, No Thumb",01-05-037-01,S170,U+FD8A0,󽢠,6,16
+BaseSymbol_114,"Cup, No Thumb",01-05-038-01,S171,U+FD8A1,󽢡,6,16
+BaseSymbol_115,"Cup Open, Thumb Forward",01-05-039-01,S172,U+FD8A2,󽢢,6,16
+BaseSymbol_116,"Cup, Thumb Forward",01-05-040-01,S173,U+FD8A3,󽢣,6,16
+BaseSymbol_117,Curlicue Open,01-05-041-01,S174,U+FD8A4,󽢤,6,16
+BaseSymbol_118,Curlicue,01-05-042-01,S175,U+FD8A5,󽢥,6,16
+BaseSymbol_119,Circle,01-05-043-01,S176,U+FD8A6,󽢦,6,16
+BaseSymbol_120,Oval,01-05-044-01,S177,U+FD8A7,󽢧,6,16
+BaseSymbol_121,"Oval, Thumb Side",01-05-045-01,S178,U+FD8A8,󽢨,6,16
+BaseSymbol_122,"Oval, No Thumb",01-05-046-01,S179,U+FD8A9,󽢩,6,16
+BaseSymbol_123,"Oval, Thumb Forward",01-05-047-01,S17a,U+FD8AA,󽢪,6,16
+BaseSymbol_124,Hinge Open,01-05-048-01,S17b,U+FD8AB,󽢫,6,16
+BaseSymbol_125,"Hinge Open, Thumb Forward",01-05-049-01,S17c,U+FD8AC,󽢬,6,16
+BaseSymbol_126,Hinge,01-05-050-01,S17d,U+FD8AD,󽢭,6,16
+BaseSymbol_127,Hinge Small,01-05-051-01,S17e,U+FD8AE,󽢮,6,16
+BaseSymbol_128,"Hinge Open, Thumb Side",01-05-052-01,S17f,U+FD8AF,󽢯,6,16
+BaseSymbol_129,"Hinge, Thumb Side",01-05-053-01,S180,U+FD8B0,󽢰,6,16
+BaseSymbol_130,"Hinge Open, No Thumb",01-05-054-01,S181,U+FD8B1,󽢱,6,16
+BaseSymbol_131,"Hinge, No Thumb",01-05-055-01,S182,U+FD8B2,󽢲,6,16
+BaseSymbol_132,"Hinge, Thumb Side Touches Index",01-05-056-01,S183,U+FD8B3,󽢳,6,16
+BaseSymbol_133,"Hinge, Thumb Between Middle Ring",01-05-057-01,S184,U+FD8B4,󽢴,6,16
+BaseSymbol_134,Angle,01-05-058-01,S185,U+FD8B5,󽢵,6,16
+BaseSymbol_135,Index Middle Ring,01-06-001-01,S186,U+FD8B6,󽢶,6,16
+BaseSymbol_136,Index Middle Ring on Circle,01-06-002-01,S187,U+FD8B7,󽢷,6,16
+BaseSymbol_137,Index Middle Ring on Hinge,01-06-003-01,S188,U+FD8B8,󽢸,6,16
+BaseSymbol_138,Index Middle Ring on Angle,01-06-004-01,S189,U+FD8B9,󽢹,6,16
+BaseSymbol_139,Baby Hinge,01-06-005-01,S18a,U+FD8BA,󽢺,6,16
+BaseSymbol_140,"Index Middle Ring, Bent",01-06-006-01,S18b,U+FD8BB,󽢻,6,16
+BaseSymbol_141,"Index Middle Ring, Unit",01-06-007-01,S18c,U+FD8BC,󽢼,6,16
+BaseSymbol_142,"Index Middle Ring, Unit Hinge",01-06-008-01,S18d,U+FD8BD,󽢽,6,16
+BaseSymbol_143,Baby Down,01-06-009-01,S18e,U+FD8BE,󽢾,6,16
+BaseSymbol_144,"Baby Down, Ripple Straight",01-06-010-01,S18f,U+FD8BF,󽢿,6,16
+BaseSymbol_145,"Baby Down, Ripple Curved",01-06-011-01,S190,U+FD8C0,󽣀,6,16
+BaseSymbol_146,"Baby Down, Others Circle",01-06-012-01,S191,U+FD8C1,󽣁,6,16
+BaseSymbol_147,Baby Up,01-06-013-01,S192,U+FD8C2,󽣂,6,16
+BaseSymbol_148,Baby Up on Fist Thumb Under,01-06-014-01,S193,U+FD8C3,󽣃,6,16
+BaseSymbol_149,Baby Up on Circle,01-06-015-01,S194,U+FD8C4,󽣄,6,16
+BaseSymbol_150,Baby Up on Oval,01-06-016-01,S195,U+FD8C5,󽣅,6,16
+BaseSymbol_151,Baby Up on Angle,01-06-017-01,S196,U+FD8C6,󽣆,6,16
+BaseSymbol_152,Baby Raised Knuckle,01-06-018-01,S197,U+FD8C7,󽣇,6,16
+BaseSymbol_153,Baby Bent,01-06-019-01,S198,U+FD8C8,󽣈,6,16
+BaseSymbol_154,Baby Touches Thumb,01-06-020-01,S199,U+FD8C9,󽣉,6,16
+BaseSymbol_155,Baby Thumb,01-06-021-01,S19a,U+FD8CA,󽣊,6,16
+BaseSymbol_156,Baby Thumb on Hinge,01-06-022-01,S19b,U+FD8CB,󽣋,6,16
+BaseSymbol_157,Baby Index Thumb,01-06-023-01,S19c,U+FD8CC,󽣌,6,16
+BaseSymbol_158,Baby Index Thumb on Hinge,01-06-024-01,S19d,U+FD8CD,󽣍,6,16
+BaseSymbol_159,"Baby Index Thumb, Index Thumb Angle Out",01-06-025-01,S19e,U+FD8CE,󽣎,6,16
+BaseSymbol_160,"Baby Index Thumb, Index Thumb Angle",01-06-026-01,S19f,U+FD8CF,󽣏,6,16
+BaseSymbol_161,Baby Index,01-06-027-01,S1a0,U+FD8D0,󽣐,6,16
+BaseSymbol_162,Baby Index on Circle,01-06-028-01,S1a1,U+FD8D1,󽣑,6,16
+BaseSymbol_163,Baby Index on Hinge,01-06-029-01,S1a2,U+FD8D2,󽣒,6,16
+BaseSymbol_164,Baby Index on Angle,01-06-030-01,S1a3,U+FD8D3,󽣓,6,16
+BaseSymbol_165,Index Middle Baby,01-07-001-01,S1a4,U+FD8D4,󽣔,6,16
+BaseSymbol_166,Index Middle Baby on Circle,01-07-002-01,S1a5,U+FD8D5,󽣕,6,16
+BaseSymbol_167,Index Middle Baby on Hinge,01-07-003-01,S1a6,U+FD8D6,󽣖,6,16
+BaseSymbol_168,Ring Hinge,01-07-004-01,S1a7,U+FD8D7,󽣗,6,16
+BaseSymbol_169,Index Middle Baby on Angle,01-07-005-01,S1a8,U+FD8D8,󽣘,6,16
+BaseSymbol_170,Index Middle Cross with Baby,01-07-006-01,S1a9,U+FD8D9,󽣙,6,16
+BaseSymbol_171,Index Middle Cross with Baby on Circle,01-07-007-01,S1aa,U+FD8DA,󽣚,6,16
+BaseSymbol_172,Ring Down,01-07-008-01,S1ab,U+FD8DB,󽣛,6,16
+BaseSymbol_173,"Ring Down, Index Thumb Hook, Middle Hinge",01-07-009-01,S1ac,U+FD8DC,󽣜,6,16
+BaseSymbol_174,"Ring Down, Middle Thumb Angle, Index Cross",01-07-010-01,S1ad,U+FD8DD,󽣝,6,16
+BaseSymbol_175,Ring Up,01-07-011-01,S1ae,U+FD8DE,󽣞,6,16
+BaseSymbol_176,Ring Raised Knuckle,01-07-012-01,S1af,U+FD8DF,󽣟,6,16
+BaseSymbol_177,Ring Baby,01-07-013-01,S1b0,U+FD8E0,󽣠,6,16
+BaseSymbol_178,Ring Baby on Circle,01-07-014-01,S1b1,U+FD8E1,󽣡,6,16
+BaseSymbol_179,Ring Baby on Oval,01-07-015-01,S1b2,U+FD8E2,󽣢,6,16
+BaseSymbol_180,Ring Baby on Angle,01-07-016-01,S1b3,U+FD8E3,󽣣,6,16
+BaseSymbol_181,Ring Middle,01-07-017-01,S1b4,U+FD8E4,󽣤,6,16
+BaseSymbol_182,Ring Middle Unit,01-07-018-01,S1b5,U+FD8E5,󽣥,6,16
+BaseSymbol_183,Ring Middle Raised Knuckles,01-07-019-01,S1b6,U+FD8E6,󽣦,6,16
+BaseSymbol_184,Ring Index,01-07-020-01,S1b7,U+FD8E7,󽣧,6,16
+BaseSymbol_185,Ring Thumb,01-07-021-01,S1b8,U+FD8E8,󽣨,6,16
+BaseSymbol_186,Ring Thumb Hook,01-07-022-01,S1b9,U+FD8E9,󽣩,6,16
+BaseSymbol_187,Index Ring Baby,01-08-001-01,S1ba,U+FD8EA,󽣪,6,16
+BaseSymbol_188,Index Ring Baby on Circle,01-08-002-01,S1bb,U+FD8EB,󽣫,6,16
+BaseSymbol_189,Index Ring Baby on Curlicue,01-08-003-01,S1bc,U+FD8EC,󽣬,6,16
+BaseSymbol_190,Index Ring Baby on Hook Out,01-08-004-01,S1bd,U+FD8ED,󽣭,6,16
+BaseSymbol_191,Index Ring Baby on Hook In,01-08-005-01,S1be,U+FD8EE,󽣮,6,16
+BaseSymbol_192,Index Ring Baby on Hook Under,01-08-006-01,S1bf,U+FD8EF,󽣯,6,16
+BaseSymbol_193,Index Ring Baby on Cup,01-08-007-01,S1c0,U+FD8F0,󽣰,6,16
+BaseSymbol_194,Index Ring Baby on Hinge,01-08-008-01,S1c1,U+FD8F1,󽣱,6,16
+BaseSymbol_195,Index Ring Baby on Angle Out,01-08-009-01,S1c2,U+FD8F2,󽣲,6,16
+BaseSymbol_196,Index Ring Baby on Angle,01-08-010-01,S1c3,U+FD8F3,󽣳,6,16
+BaseSymbol_197,Middle Down,01-08-011-01,S1c4,U+FD8F4,󽣴,6,16
+BaseSymbol_198,Middle Hinge,01-08-012-01,S1c5,U+FD8F5,󽣵,6,16
+BaseSymbol_199,Middle Up,01-08-013-01,S1c6,U+FD8F6,󽣶,6,16
+BaseSymbol_200,Middle Up on Circle,01-08-014-01,S1c7,U+FD8F7,󽣷,6,16
+BaseSymbol_201,Middle Raised Knuckle,01-08-015-01,S1c8,U+FD8F8,󽣸,6,16
+BaseSymbol_202,"Middle Up, Thumb Side",01-08-016-01,S1c9,U+FD8F9,󽣹,6,16
+BaseSymbol_203,Middle Thumb Hook,01-08-017-01,S1ca,U+FD8FA,󽣺,6,16
+BaseSymbol_204,Middle Thumb Baby,01-08-018-01,S1cb,U+FD8FB,󽣻,6,16
+BaseSymbol_205,Middle Baby,01-08-019-01,S1cc,U+FD8FC,󽣼,6,16
+BaseSymbol_206,Middle Ring Baby,01-09-001-01,S1cd,U+FD8FD,󽣽,6,16
+BaseSymbol_207,Middle Ring Baby on Circle,01-09-002-01,S1ce,U+FD8FE,󽣾,6,16
+BaseSymbol_208,Middle Ring Baby on Curlicue,01-09-003-01,S1cf,U+FD8FF,󽣿,6,16
+BaseSymbol_209,Middle Ring Baby on Cup,01-09-004-01,S1d0,U+FD900,󽤀,6,16
+BaseSymbol_210,Middle Ring Baby on Hinge,01-09-005-01,S1d1,U+FD901,󽤁,6,16
+BaseSymbol_211,Middle Ring Baby on Angle Out,01-09-006-01,S1d2,U+FD902,󽤂,6,16
+BaseSymbol_212,Middle Ring Baby on Angle In,01-09-007-01,S1d3,U+FD903,󽤃,6,16
+BaseSymbol_213,Middle Ring Baby on Angle,01-09-008-01,S1d4,U+FD904,󽤄,6,16
+BaseSymbol_214,Middle Ring Baby Bent,01-09-009-01,S1d5,U+FD905,󽤅,6,16
+BaseSymbol_215,Middle Ring Baby Unit on Claw,01-09-010-01,S1d6,U+FD906,󽤆,6,16
+BaseSymbol_216,Middle Ring Baby Unit on Claw Side,01-09-011-01,S1d7,U+FD907,󽤇,6,16
+BaseSymbol_217,Middle Ring Baby Unit on Hook Out,01-09-012-01,S1d8,U+FD908,󽤈,6,16
+BaseSymbol_218,Middle Ring Baby Unit on Hook In,01-09-013-01,S1d9,U+FD909,󽤉,6,16
+BaseSymbol_219,Middle Ring Baby Unit on Hook,01-09-014-01,S1da,U+FD90A,󽤊,6,16
+BaseSymbol_220,Index Hinge,01-09-015-01,S1db,U+FD90B,󽤋,6,16
+BaseSymbol_221,Index Thumb Side,01-09-016-01,S1dc,U+FD90C,󽤌,6,16
+BaseSymbol_222,Index Thumb Side on Hinge,01-09-017-01,S1dd,U+FD90D,󽤍,6,16
+BaseSymbol_223,"Index Thumb Side, Thumb Diagonal",01-09-018-01,S1de,U+FD90E,󽤎,6,16
+BaseSymbol_224,"Index Thumb Side, Thumb Unit",01-09-019-01,S1df,U+FD90F,󽤏,6,16
+BaseSymbol_225,"Index Thumb Side, Thumb Bent",01-09-020-01,S1e0,U+FD910,󽤐,6,16
+BaseSymbol_226,"Index Thumb Side, Index Bent",01-09-021-01,S1e1,U+FD911,󽤑,6,16
+BaseSymbol_227,"Index Thumb Side, Both Bent",01-09-022-01,S1e2,U+FD912,󽤒,6,16
+BaseSymbol_228,"Index Thumb Side, Index Hinge",01-09-023-01,S1e3,U+FD913,󽤓,6,16
+BaseSymbol_229,"Index Thumb Forward, Index Straight",01-09-024-01,S1e4,U+FD914,󽤔,6,16
+BaseSymbol_230,"Index Thumb Forward, Index Bent",01-09-025-01,S1e5,U+FD915,󽤕,6,16
+BaseSymbol_231,Index Thumb Hook,01-09-026-01,S1e6,U+FD916,󽤖,6,16
+BaseSymbol_232,Index Thumb Curlicue,01-09-027-01,S1e7,U+FD917,󽤗,6,16
+BaseSymbol_233,"Index Thumb Curve, Thumb Inside",01-09-028-01,S1e8,U+FD918,󽤘,6,16
+BaseSymbol_234,"Index Thumb Curve, Thumb Inside on Claw",01-09-029-01,S1e9,U+FD919,󽤙,6,16
+BaseSymbol_235,"Index Thumb Curve, Thumb Under",01-09-030-01,S1ea,U+FD91A,󽤚,6,16
+BaseSymbol_236,Index Thumb Circle,01-09-031-01,S1eb,U+FD91B,󽤛,6,16
+BaseSymbol_237,Index Thumb Cup,01-09-032-01,S1ec,U+FD91C,󽤜,6,16
+BaseSymbol_238,Index Thumb Cup Open,01-09-033-01,S1ed,U+FD91D,󽤝,6,16
+BaseSymbol_239,Index Thumb Hinge Open,01-09-034-01,S1ee,U+FD91E,󽤞,6,16
+BaseSymbol_240,Index Thumb Hinge Large,01-09-035-01,S1ef,U+FD91F,󽤟,6,16
+BaseSymbol_241,Index Thumb Hinge,01-09-036-01,S1f0,U+FD920,󽤠,6,16
+BaseSymbol_242,Index Thumb Hinge Small,01-09-037-01,S1f1,U+FD921,󽤡,6,16
+BaseSymbol_243,Index Thumb Angle Out,01-09-038-01,S1f2,U+FD922,󽤢,6,16
+BaseSymbol_244,Index Thumb Angle In,01-09-039-01,S1f3,U+FD923,󽤣,6,16
+BaseSymbol_245,Index Thumb Angle,01-09-040-01,S1f4,U+FD924,󽤤,6,16
+BaseSymbol_246,Thumb,01-10-001-01,S1f5,U+FD925,󽤥,6,16
+BaseSymbol_247,Thumb Heel,01-10-002-01,S1f6,U+FD926,󽤦,2,16
+BaseSymbol_248,Thumb Side Diagonal,01-10-003-01,S1f7,U+FD927,󽤧,6,16
+BaseSymbol_249,Thumb Side Unit,01-10-004-01,S1f8,U+FD928,󽤨,6,16
+BaseSymbol_250,Thumb Side Bent,01-10-005-01,S1f9,U+FD929,󽤩,6,16
+BaseSymbol_251,Thumb Forward,01-10-006-01,S1fa,U+FD92A,󽤪,6,16
+BaseSymbol_252,Thumb Between Index Middle,01-10-007-01,S1fb,U+FD92B,󽤫,6,16
+BaseSymbol_253,Thumb Between Middle Ring,01-10-008-01,S1fc,U+FD92C,󽤬,6,16
+BaseSymbol_254,Thumb Between Ring Baby,01-10-009-01,S1fd,U+FD92D,󽤭,6,16
+BaseSymbol_255,Thumb Under Two Fingers,01-10-010-01,S1fe,U+FD92E,󽤮,6,16
+BaseSymbol_256,Thumb Over Two Fingers,01-10-011-01,S1ff,U+FD92F,󽤯,6,16
+BaseSymbol_257,Thumb Under Three Fingers,01-10-012-01,S200,U+FD930,󽤰,6,16
+BaseSymbol_258,Thumb Under Four Fingers,01-10-013-01,S201,U+FD931,󽤱,6,16
+BaseSymbol_259,Thumb Over Four Raised Knuckles,01-10-014-01,S202,U+FD932,󽤲,6,16
+BaseSymbol_260,Fist,01-10-015-01,S203,U+FD933,󽤳,6,16
+BaseSymbol_261,Fist Heel,01-10-016-01,S204,U+FD934,󽤴,2,16
+BaseSymbol_262,Touch Single,02-01-001-01,S205,U+FD935,󽤵,1,1
+BaseSymbol_263,Touch Multiple,02-01-002-01,S206,U+FD936,󽤶,2,4
+BaseSymbol_264,Touch Between,02-01-003-01,S207,U+FD937,󽤷,2,4
+BaseSymbol_265,Grasp Single,02-01-004-01,S208,U+FD938,󽤸,1,1
+BaseSymbol_266,Grasp Multiple,02-01-005-01,S209,U+FD939,󽤹,2,4
+BaseSymbol_267,Grasp Between,02-01-006-01,S20a,U+FD93A,󽤺,2,4
+BaseSymbol_268,Strike Single,02-01-007-01,S20b,U+FD93B,󽤻,1,1
+BaseSymbol_269,Strike Multiple,02-01-008-01,S20c,U+FD93C,󽤼,2,4
+BaseSymbol_270,Strike Between,02-01-009-01,S20d,U+FD93D,󽤽,2,4
+BaseSymbol_271,Brush Single,02-01-010-01,S20e,U+FD93E,󽤾,1,1
+BaseSymbol_272,Brush Multiple,02-01-011-01,S20f,U+FD93F,󽤿,2,4
+BaseSymbol_273,Brush Between,02-01-012-01,S210,U+FD940,󽥀,2,4
+BaseSymbol_274,Rub Single,02-01-013-01,S211,U+FD941,󽥁,1,1
+BaseSymbol_275,Rub Multiple,02-01-014-01,S212,U+FD942,󽥂,2,4
+BaseSymbol_276,Rub Between,02-01-015-01,S213,U+FD943,󽥃,2,4
+BaseSymbol_277,Surface Symbols,02-01-016-01,S214,U+FD944,󽥄,2,8
+BaseSymbol_278,Surface Between,02-01-017-01,S215,U+FD945,󽥅,2,4
+BaseSymbol_279,Squeeze Large Single,02-02-001-01,S216,U+FD946,󽥆,1,1
+BaseSymbol_280,Squeeze Small Single,02-02-001-02,S217,U+FD947,󽥇,1,1
+BaseSymbol_281,Squeeze Large Multiple,02-02-002-01,S218,U+FD948,󽥈,2,4
+BaseSymbol_282,Squeeze Small Multiple,02-02-002-02,S219,U+FD949,󽥉,2,4
+BaseSymbol_283,Squeeze Sequential,02-02-003-01,S21a,U+FD94A,󽥊,6,16
+BaseSymbol_284,Flick Large Single,02-02-004-01,S21b,U+FD94B,󽥋,1,1
+BaseSymbol_285,Flick Small Single,02-02-004-02,S21c,U+FD94C,󽥌,1,1
+BaseSymbol_286,Flick Large Multiple,02-02-005-01,S21d,U+FD94D,󽥍,2,4
+BaseSymbol_287,Flick Small Multiple,02-02-005-02,S21e,U+FD94E,󽥎,2,4
+BaseSymbol_288,Flick Sequential,02-02-006-01,S21f,U+FD94F,󽥏,6,16
+BaseSymbol_289,Squeeze Flick Alternating,02-02-007-01,S220,U+FD950,󽥐,2,8
+BaseSymbol_290,"Hinge Movement, Up Down Large",02-02-008-01,S221,U+FD951,󽥑,5,8
+BaseSymbol_291,"Hinge Movement, Up Down Small",02-02-008-02,S222,U+FD952,󽥒,5,8
+BaseSymbol_292,"Hinge Movement, Up Sequential",02-02-009-01,S223,U+FD953,󽥓,6,16
+BaseSymbol_293,"Hinge Movement, Down Sequential",02-02-009-02,S224,U+FD954,󽥔,6,16
+BaseSymbol_294,"Hinge Movement, Up Down Alternating Large",02-02-010-01,S225,U+FD955,󽥕,4,8
+BaseSymbol_295,"Hinge Movement, Up Down Alternating Small",02-02-010-02,S226,U+FD956,󽥖,4,8
+BaseSymbol_296,"Hinge Movement, Side to Side Scissors",02-02-011-01,S227,U+FD957,󽥗,4,8
+BaseSymbol_297,"Finger Contact Movement, Wall Plane",02-02-012-01,S228,U+FD958,󽥘,5,8
+BaseSymbol_298,"Finger Contact Movement, Floor Plane",02-02-013-01,S229,U+FD959,󽥙,5,8
+BaseSymbol_299,"Single Straight Movement, Wall Plane Small",02-03-001-01,S22a,U+FD95A,󽥚,4,8
+BaseSymbol_300,"Single Straight Movement, Wall Plane Medium",02-03-001-02,S22b,U+FD95B,󽥛,4,8
+BaseSymbol_301,"Single Straight Movement, Wall Plane Large",02-03-001-03,S22c,U+FD95C,󽥜,4,8
+BaseSymbol_302,"Single Straight Movement, Wall Plane Largest",02-03-001-04,S22d,U+FD95D,󽥝,4,8
+BaseSymbol_303,"Single Wrist Flex, Wall Plane",02-03-001-05,S22e,U+FD95E,󽥞,4,8
+BaseSymbol_304,"Double Straight Movement, Wall Plane",02-03-002-01,S22f,U+FD95F,󽥟,3,8
+BaseSymbol_305,"Double Wrist Flex, Wall Plane",02-03-002-02,S230,U+FD960,󽥠,3,8
+BaseSymbol_306,"Double Alternating Movement, Wall Plane",02-03-003-01,S231,U+FD961,󽥡,3,16
+BaseSymbol_307,"Double Alternating Wrist Flex, Wall Plane",02-03-003-02,S232,U+FD962,󽥢,3,16
+BaseSymbol_308,"Cross Movement, Wall Plane",02-03-004-01,S233,U+FD963,󽥣,3,16
+BaseSymbol_309,"Triple Straight Movement, Wall Plane",02-03-005-01,S234,U+FD964,󽥤,3,8
+BaseSymbol_310,"Triple Wrist Flex, Wall Plane",02-03-005-02,S235,U+FD965,󽥥,3,8
+BaseSymbol_311,"Triple Alternating Movement, Wall Plane",02-03-006-01,S236,U+FD966,󽥦,3,16
+BaseSymbol_312,"Triple Alternating Wrist Flex, Wall Plane",02-03-006-02,S237,U+FD967,󽥧,3,16
+BaseSymbol_313,"Bend, Wall Plane Small",02-03-007-01,S238,U+FD968,󽥨,4,16
+BaseSymbol_314,"Bend, Wall Plane Medium",02-03-007-02,S239,U+FD969,󽥩,4,16
+BaseSymbol_315,"Bend, Wall Plane Large",02-03-007-03,S23a,U+FD96A,󽥪,4,16
+BaseSymbol_316,"Corner, Wall Plane Small",02-03-008-01,S23b,U+FD96B,󽥫,4,16
+BaseSymbol_317,"Corner, Wall Plane Medium",02-03-008-02,S23c,U+FD96C,󽥬,4,16
+BaseSymbol_318,"Corner, Wall Plane Large",02-03-008-03,S23d,U+FD96D,󽥭,4,16
+BaseSymbol_319,"Corner, Wall Plane with Rotation",02-03-008-04,S23e,U+FD96E,󽥮,4,16
+BaseSymbol_320,"Check, Wall Plane Small",02-03-009-01,S23f,U+FD96F,󽥯,4,16
+BaseSymbol_321,"Check, Wall Plane Medium",02-03-009-02,S240,U+FD970,󽥰,4,16
+BaseSymbol_322,"Check, Wall Plane Large",02-03-009-03,S241,U+FD971,󽥱,4,16
+BaseSymbol_323,"Box, Wall Plane Small",02-03-010-01,S242,U+FD972,󽥲,4,16
+BaseSymbol_324,"Box, Wall Plane Medium",02-03-010-02,S243,U+FD973,󽥳,4,16
+BaseSymbol_325,"Box, Wall Plane Large",02-03-010-03,S244,U+FD974,󽥴,4,16
+BaseSymbol_326,"Zigzag, Wall Plane Small",02-03-011-01,S245,U+FD975,󽥵,4,16
+BaseSymbol_327,"Zigzag, Wall Plane Medium",02-03-011-02,S246,U+FD976,󽥶,4,16
+BaseSymbol_328,"Zigzag, Wall Plane Large",02-03-011-03,S247,U+FD977,󽥷,4,16
+BaseSymbol_329,"Peaks, Wall Plane Small",02-03-012-01,S248,U+FD978,󽥸,4,16
+BaseSymbol_330,"Peaks, Wall Plane Medium",02-03-012-02,S249,U+FD979,󽥹,4,16
+BaseSymbol_331,"Peaks, Wall Plane Large",02-03-012-03,S24a,U+FD97A,󽥺,4,16
+BaseSymbol_332,"Travel Rotation, Single Wall Plane",02-03-013-01,S24b,U+FD97B,󽥻,6,16
+BaseSymbol_333,"Travel Rotation, Double Wall Plane",02-03-014-01,S24c,U+FD97C,󽥼,6,16
+BaseSymbol_334,"Travel Rotation, Alternating Wall Plane",02-03-015-01,S24d,U+FD97D,󽥽,6,16
+BaseSymbol_335,"Travel Rotation, Single Floor Plane",02-03-016-01,S24e,U+FD97E,󽥾,6,12,"1, 2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16"
+BaseSymbol_336,"Travel Rotation, Double Floor Plane",02-03-017-01,S24f,U+FD97F,󽥿,6,12,"1, 2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16"
+BaseSymbol_337,"Travel Rotation, Alternating Floor Plane",02-03-018-01,S250,U+FD980,󽦀,6,12,"1, 2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16"
+BaseSymbol_338,"Travel Shaking, Wall Plane",02-03-019-01,S251,U+FD981,󽦁,3,8
+BaseSymbol_339,"Travel Arm Spiral, Wall Plane Single",02-03-020-01,S252,U+FD982,󽦂,3,16
+BaseSymbol_340,"Travel Arm Spiral, Wall Plane Double",02-03-020-02,S253,U+FD983,󽦃,3,16
+BaseSymbol_341,"Travel Arm Spiral, Wall Plane Triple",02-03-020-03,S254,U+FD984,󽦄,3,16
+BaseSymbol_342,Diagonal Away Movement Small,02-04-001-01,S255,U+FD985,󽦅,5,6,"1, 2, 4, 5, 6, 8" 
+BaseSymbol_343,Diagonal Away Movement Medium,02-04-001-02,S256,U+FD986,󽦆,5,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_344,Diagonal Away Movement Large,02-04-001-03,S257,U+FD987,󽦇,5,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_345,Diagonal Away Movement Largest,02-04-001-04,S258,U+FD988,󽦈,5,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_346,Diagonal Towards Movement Small,02-04-002-01,S259,U+FD989,󽦉,5,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_347,Diagonal Towards Movement Medium,02-04-002-02,S25a,U+FD98A,󽦊,5,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_348,Diagonal Towards Movement Large,02-04-002-03,S25b,U+FD98B,󽦋,5,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_349,Diagonal Towards Movement Largest,02-04-002-04,S25c,U+FD98C,󽦌,5,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_350,Diagonal Between Away Small,02-04-003-01,S25d,U+FD98D,󽦍,4,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_351,Diagonal Between Away Medium,02-04-003-02,S25e,U+FD98E,󽦎,4,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_352,Diagonal Between Away Large,02-04-003-03,S25f,U+FD98F,󽦏,4,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_353,Diagonal Between Away Largest,02-04-003-04,S260,U+FD990,󽦐,4,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_354,Diagonal Between Towards Small,02-04-004-01,S261,U+FD991,󽦑,4,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_355,Diagonal Between Towards Medium,02-04-004-02,S262,U+FD992,󽦒,4,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_356,Diagonal Between Towards Large,02-04-004-03,S263,U+FD993,󽦓,4,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_357,Diagonal Between Towards Largest,02-04-004-04,S264,U+FD994,󽦔,4,6,"1, 2, 4, 5, 6, 8"
+BaseSymbol_358,"Single Straight Movement, Floor Plane Small",02-05-001-01,S265,U+FD995,󽦕,4,8
+BaseSymbol_359,"Single Straight Movement, Floor Plane Medium",02-05-001-02,S266,U+FD996,󽦖,4,8
+BaseSymbol_360,"Single Straight Movement, Floor Plane Large",02-05-001-03,S267,U+FD997,󽦗,4,8
+BaseSymbol_361,"Single Straight Movement, Floor Plane Largest",02-05-001-04,S268,U+FD998,󽦘,4,8
+BaseSymbol_362,"Single Wrist Flex, Floor Plane",02-05-001-05,S269,U+FD999,󽦙,4,8
+BaseSymbol_363,"Double Straight Movement, Floor Plane",02-05-002-01,S26a,U+FD99A,󽦚,3,8
+BaseSymbol_364,"Double Wrist Flex, Floor Plane",02-05-002-02,S26b,U+FD99B,󽦛,3,8
+BaseSymbol_365,"Double Alternating Movement, Floor Plane",02-05-003-01,S26c,U+FD99C,󽦜,3,16
+BaseSymbol_366,"Double Alternating Wrist Flex, Floor Plane",02-05-003-02,S26d,U+FD99D,󽦝,3,16
+BaseSymbol_367,"Cross Movement, Floor Plane",02-05-004-01,S26e,U+FD99E,󽦞,3,16
+BaseSymbol_368,"Triple Straight Movement, Floor Plane",02-05-005-01,S26f,U+FD99F,󽦟,3,8
+BaseSymbol_369,"Triple Wrist Flex, Floor Plane",02-05-005-02,S270,U+FD9A0,󽦠,3,8
+BaseSymbol_370,"Triple Alternating Movement, Floor Plane",02-05-006-01,S271,U+FD9A1,󽦡,3,16
+BaseSymbol_371,"Triple Alternating Wrist Flex, Floor Plane",02-05-006-02,S272,U+FD9A2,󽦢,3,16
+BaseSymbol_372,"Bend, Floor Plane",02-05-007-01,S273,U+FD9A3,󽦣,4,16
+BaseSymbol_373,"Corner, Floor Plane Small",02-05-008-01,S274,U+FD9A4,󽦤,4,16
+BaseSymbol_374,"Corner, Floor Plane Medium",02-05-008-02,S275,U+FD9A5,󽦥,4,16
+BaseSymbol_375,"Corner, Floor Plane Large",02-05-008-03,S276,U+FD9A6,󽦦,4,16
+BaseSymbol_376,"Check, Floor Plane",02-05-009-01,S277,U+FD9A7,󽦧,4,16
+BaseSymbol_377,"Box, Floor Plane Small",02-05-010-01,S278,U+FD9A8,󽦨,4,16
+BaseSymbol_378,"Box, Floor Plane Medium",02-05-010-02,S279,U+FD9A9,󽦩,4,16
+BaseSymbol_379,"Box, Floor Plane Large",02-05-010-03,S27a,U+FD9AA,󽦪,4,16
+BaseSymbol_380,"Zigzag, Floor Plane Small",02-05-011-01,S27b,U+FD9AB,󽦫,4,16
+BaseSymbol_381,"Zigzag, Floor Plane Medium",02-05-011-02,S27c,U+FD9AC,󽦬,4,16
+BaseSymbol_382,"Zigzag, Floor Plane Large",02-05-011-03,S27d,U+FD9AD,󽦭,4,16
+BaseSymbol_383,"Peaks, Floor Plane Small",02-05-012-01,S27e,U+FD9AE,󽦮,4,16
+BaseSymbol_384,"Peaks, Floor Plane Medium",02-05-012-02,S27f,U+FD9AF,󽦯,4,16
+BaseSymbol_385,"Peaks, Floor Plane Large",02-05-012-03,S280,U+FD9B0,󽦰,4,16
+BaseSymbol_386,Travel Rotation Single Floor Plane,02-05-013-01,S281,U+FD9B1,󽦱,6,16
+BaseSymbol_387,Travel Rotation Double Floor Plane,02-05-014-01,S282,U+FD9B2,󽦲,6,16
+BaseSymbol_388,Travel Rotation Alternating Floor Plane,02-05-015-01,S283,U+FD9B3,󽦳,6,16
+BaseSymbol_389,Travel Rotation Single Wall Plane,02-05-016-01,S284,U+FD9B4,󽦴,6,16
+BaseSymbol_390,Travel Rotation Double Wall Plane,02-05-017-01,S285,U+FD9B5,󽦵,6,16
+BaseSymbol_391,Travel Rotation Alternating Wall Plane,02-05-018-01,S286,U+FD9B6,󽦶,6,16
+BaseSymbol_392,Travel Shaking Floor Plane,02-05-019-01,S287,U+FD9B7,󽦷,3,8
+BaseSymbol_393,"Curve Wall Plane, Quarter Small",02-06-001-01,S288,U+FD9B8,󽦸,4,16
+BaseSymbol_394,"Curve Wall Plane, Quarter Medium",02-06-001-02,S289,U+FD9B9,󽦹,4,16
+BaseSymbol_395,"Curve Wall Plane, Quarter Large",02-06-001-03,S28a,U+FD9BA,󽦺,4,16
+BaseSymbol_396,"Curve Wall Plane, Quarter Largest",02-06-001-04,S28b,U+FD9BB,󽦻,4,16
+BaseSymbol_397,"Curve Wall Plane, Half Circle Small",02-06-002-01,S28c,U+FD9BC,󽦼,4,16
+BaseSymbol_398,"Curve Wall Plane, Half Circle Medium",02-06-002-02,S28d,U+FD9BD,󽦽,4,16
+BaseSymbol_399,"Curve Wall Plane, Half Circle Large",02-06-002-03,S28e,U+FD9BE,󽦾,4,16
+BaseSymbol_400,"Curve Wall Plane, Half Circle Largest",02-06-002-04,S28f,U+FD9BF,󽦿,4,16
+BaseSymbol_401,"Curve Wall Plane, 3 Quarter Circle Small",02-06-003-01,S290,U+FD9C0,󽧀,4,16
+BaseSymbol_402,"Curve Wall Plane, 3 Quarter Circle Medium",02-06-003-02,S291,U+FD9C1,󽧁,4,16
+BaseSymbol_403,Hump Wall Plane Small,02-06-004-01,S292,U+FD9C2,󽧂,4,16
+BaseSymbol_404,Hump Wall Plane Medium,02-06-004-02,S293,U+FD9C3,󽧃,4,16
+BaseSymbol_405,Hump Wall Plane Large,02-06-004-03,S294,U+FD9C4,󽧄,4,16
+BaseSymbol_406,Loop Wall Plane Small,02-06-005-01,S295,U+FD9C5,󽧅,4,16
+BaseSymbol_407,Loop Wall Plane Medium,02-06-005-02,S296,U+FD9C6,󽧆,4,16
+BaseSymbol_408,Loop Wall Plane Large,02-06-005-03,S297,U+FD9C7,󽧇,4,16
+BaseSymbol_409,Loop Wall Plane Small Double,02-06-005-04,S298,U+FD9C8,󽧈,4,16
+BaseSymbol_410,Wave Wall Plane 2 Curves Small,02-06-006-01,S299,U+FD9C9,󽧉,4,16
+BaseSymbol_411,Wave Wall Plane 2 Curves Medium,02-06-006-02,S29a,U+FD9CA,󽧊,4,16
+BaseSymbol_412,Wave Wall Plane 2 Curves Large,02-06-006-03,S29b,U+FD9CB,󽧋,4,16
+BaseSymbol_413,Wave Wall Plane 3 Curves Small,02-06-006-04,S29c,U+FD9CC,󽧌,4,16
+BaseSymbol_414,Wave Wall Plane 3 Curves Medium,02-06-006-05,S29d,U+FD9CD,󽧍,4,16
+BaseSymbol_415,Wave Wall Plane 3 Curves Large,02-06-006-06,S29e,U+FD9CE,󽧎,4,16
+BaseSymbol_416,Curve Then Straight Movement Wall Plane,02-06-007-01,S29f,U+FD9CF,󽧏,4,16
+BaseSymbol_417,Curved Cross Movement Wall Small,02-06-007-02,S2a0,U+FD9D0,󽧐,4,16
+BaseSymbol_418,Curved Cross Movement Wall Medium,02-06-007-03,S2a1,U+FD9D1,󽧑,4,16
+BaseSymbol_419,Rotation Single Wall Plane,02-06-008-01,S2a2,U+FD9D2,󽧒,6,16
+BaseSymbol_420,Rotation Double Wall Plane,02-06-009-01,S2a3,U+FD9D3,󽧓,6,16
+BaseSymbol_421,Rotation Alternate Wall Plane,02-06-010-01,S2a4,U+FD9D4,󽧔,6,16
+BaseSymbol_422,Shaking Wall Plane,02-06-011-01,S2a5,U+FD9D5,󽧕,5,16
+BaseSymbol_423,Curve Hits Front Wall,02-07-001-01,S2a6,U+FD9D6,󽧖,3,4
+BaseSymbol_424,Hump Hits Front Wall,02-07-002-01,S2a7,U+FD9D7,󽧗,3,4
+BaseSymbol_425,Loop Hits Front Wall,02-07-003-01,S2a8,U+FD9D8,󽧘,3,4
+BaseSymbol_426,Wave Hits Front Wall,02-07-004-01,S2a9,U+FD9D9,󽧙,3,4
+BaseSymbol_427,Rotation Single Hits Front Wall,02-07-005-01,S2aa,U+FD9DA,󽧚,3,4
+BaseSymbol_428,Rotation Double Hits Front Wall,02-07-006-01,S2ab,U+FD9DB,󽧛,3,4
+BaseSymbol_429,Rotation Alternating Hits Front Wall,02-07-007-01,S2ac,U+FD9DC,󽧜,3,4
+BaseSymbol_430,Curve Hits Chest,02-07-009-01,S2ad,U+FD9DD,󽧝,3,4
+BaseSymbol_431,Hump Hits Chest,02-07-010-01,S2ae,U+FD9DE,󽧞,3,4
+BaseSymbol_432,Loop Hits Chest,02-07-011-01,S2af,U+FD9DF,󽧟,3,4
+BaseSymbol_433,Wave Hits Chest,02-07-012-01,S2b0,U+FD9E0,󽧠,3,4
+BaseSymbol_434,Rotation Single Hits Chest,02-07-013-01,S2b1,U+FD9E1,󽧡,3,4
+BaseSymbol_435,Rotation Double Hits Chest,02-07-014-01,S2b2,U+FD9E2,󽧢,3,4
+BaseSymbol_436,Rotation Alternating Hits Chest,02-07-015-01,S2b3,U+FD9E3,󽧣,3,4
+BaseSymbol_437,Wave Diagonal Path Small,02-07-016-01,S2b4,U+FD9E4,󽧤,3,12,"1, 2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16"
+BaseSymbol_438,Wave Diagonal Path Medium,02-07-016-02,S2b5,U+FD9E5,󽧥,3,12,"1, 2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16"
+BaseSymbol_439,Wave Diagonal Path Large,02-07-016-03,S2b6,U+FD9E6,󽧦,3,12,"1, 2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16"
+BaseSymbol_440,Curve Hits Ceiling Small,02-08-001-01,S2b7,U+FD9E7,󽧧,6,8
+BaseSymbol_441,Curve Hits Ceiling Large,02-08-001-02,S2b8,U+FD9E8,󽧨,6,8
+BaseSymbol_442,Hump Hits Ceiling 2 Humps Small,02-08-002-01,S2b9,U+FD9E9,󽧩,4,8
+BaseSymbol_443,Hump Hits Ceiling 2 Humps Large,02-08-002-02,S2ba,U+FD9EA,󽧪,4,8
+BaseSymbol_444,Hump Hits Ceiling 3 Humps Small,02-08-002-03,S2bb,U+FD9EB,󽧫,4,8
+BaseSymbol_445,Hump Hits Ceiling 3 Humps Large,02-08-002-04,S2bc,U+FD9EC,󽧬,4,8
+BaseSymbol_446,Loop Hits Ceiling Small Single,02-08-003-01,S2bd,U+FD9ED,󽧭,4,8
+BaseSymbol_447,Loop Hits Ceiling Large Single,02-08-003-02,S2be,U+FD9EE,󽧮,4,8
+BaseSymbol_448,Loop Hits Ceiling Small Double,02-08-003-03,S2bf,U+FD9EF,󽧯,4,8
+BaseSymbol_449,Loop Hits Ceiling Large Double,02-08-003-04,S2c0,U+FD9F0,󽧰,4,8
+BaseSymbol_450,Wave Hits Ceiling Small,02-08-004-01,S2c1,U+FD9F1,󽧱,4,8
+BaseSymbol_451,Wave Hits Ceiling Large,02-08-004-02,S2c2,U+FD9F2,󽧲,4,8
+BaseSymbol_452,Rotation Single Hits Ceiling,02-08-005-01,S2c3,U+FD9F3,󽧳,6,8
+BaseSymbol_453,Rotation Double Hits Ceiling,02-08-006-01,S2c4,U+FD9F4,󽧴,6,8
+BaseSymbol_454,Rotation Alternating Hits Ceiling,02-08-007-01,S2c5,U+FD9F5,󽧵,6,8
+BaseSymbol_455,Curve Hits Floor Small,02-08-008-01,S2c6,U+FD9F6,󽧶,6,8
+BaseSymbol_456,Curve Hits Floor Large,02-08-008-02,S2c7,U+FD9F7,󽧷,6,8
+BaseSymbol_457,Hump Hits Floor 2 Humps Small,02-08-009-01,S2c8,U+FD9F8,󽧸,4,8
+BaseSymbol_458,Hump Hits Floor 2 Humps Large,02-08-009-02,S2c9,U+FD9F9,󽧹,4,8
+BaseSymbol_459,Hump Hits Floor 3 Humps Small,02-08-009-03,S2ca,U+FD9FA,󽧺,4,8
+BaseSymbol_460,Hump Hits Floor 3 Humps Large,02-08-009-04,S2cb,U+FD9FB,󽧻,4,8
+BaseSymbol_461,Loop Hits Floor Small Single,02-08-010-01,S2cc,U+FD9FC,󽧼,4,8
+BaseSymbol_462,Loop Hits Floor Large Single,02-08-010-02,S2cd,U+FD9FD,󽧽,4,8
+BaseSymbol_463,Loop Hits Floor Small Double,02-08-010-03,S2ce,U+FD9FE,󽧾,4,8
+BaseSymbol_464,Loop Hits Floor Large Double,02-08-010-04,S2cf,U+FD9FF,󽧿,4,8
+BaseSymbol_465,Wave Hits Floor Small,02-08-011-01,S2d0,U+FDA00,󽨀,4,8
+BaseSymbol_466,Wave Hits Floor Large,02-08-011-02,S2d1,U+FDA01,󽨁,4,8
+BaseSymbol_467,Rotation Single Hits Floor,02-08-012-01,S2d2,U+FDA02,󽨂,6,8
+BaseSymbol_468,Rotation Double Hits Floor,02-08-013-01,S2d3,U+FDA03,󽨃,6,8
+BaseSymbol_469,Rotation Alternating Hits Floor,02-08-014-01,S2d4,U+FDA04,󽨄,6,8
+BaseSymbol_470,Curve Floor Plane Small,02-09-001-01,S2d5,U+FDA05,󽨅,4,16
+BaseSymbol_471,Curve Floor Plane Medium 1,02-09-001-02,S2d6,U+FDA06,󽨆,4,16
+BaseSymbol_472,Curve Floor Plane Medium 2,02-09-001-03,S2d7,U+FDA07,󽨇,4,16
+BaseSymbol_473,Curve Floor Plane Large,02-09-001-04,S2d8,U+FDA08,󽨈,4,16
+BaseSymbol_474,Curve Floor Plane Combined,02-09-001-05,S2d9,U+FDA09,󽨉,4,16
+BaseSymbol_475,Hump Floor Plane Small,02-09-002-01,S2da,U+FDA0A,󽨊,4,16
+BaseSymbol_476,Loop Floor Plane Small,02-09-003-01,S2db,U+FDA0B,󽨋,4,16
+BaseSymbol_477,Wave Floor Plane Snake,02-09-004-01,S2dc,U+FDA0C,󽨌,4,16
+BaseSymbol_478,Wave Floor Plane Small,02-09-004-02,S2dd,U+FDA0D,󽨍,4,16
+BaseSymbol_479,Wave Floor Plane Large,02-09-004-03,S2de,U+FDA0E,󽨎,4,16
+BaseSymbol_480,Rotation Single Floor Plane,02-09-005-01,S2df,U+FDA0F,󽨏,6,16
+BaseSymbol_481,Rotation Double Floor Plane,02-09-006-01,S2e0,U+FDA10,󽨐,6,16
+BaseSymbol_482,Rotation Alternating Floor Plane,02-09-007-01,S2e1,U+FDA11,󽨑,6,16
+BaseSymbol_483,Shaking Parallel Floor,02-09-008-01,S2e2,U+FDA12,󽨒,5,16
+BaseSymbol_484,Arm Circle Wall Small Single,02-10-001-01,S2e3,U+FDA13,󽨓,3,16
+BaseSymbol_485,Arm Circle Wall Medium Single,02-10-001-02,S2e4,U+FDA14,󽨔,3,16
+BaseSymbol_486,Arm Circle Wall Small Double,02-10-002-01,S2e5,U+FDA15,󽨕,3,16
+BaseSymbol_487,Arm Circle Wall Medium Double,02-10-002-02,S2e6,U+FDA16,󽨖,3,16
+BaseSymbol_488,Arm Circle Hits Wall Small Single,02-10-003-01,S2e7,U+FDA17,󽨗,6,16
+BaseSymbol_489,Arm Circle Hits Wall Medium Single,02-10-003-02,S2e8,U+FDA18,󽨘,6,16
+BaseSymbol_490,Arm Circle Hits Wall Large Single,02-10-003-03,S2e9,U+FDA19,󽨙,6,16
+BaseSymbol_491,Arm Circle Hits Wall Small Double,02-10-004-01,S2ea,U+FDA1A,󽨚,6,16
+BaseSymbol_492,Arm Circle Hits Wall Medium Double,02-10-004-02,S2eb,U+FDA1B,󽨛,6,16
+BaseSymbol_493,Arm Circle Hits Wall Large Double,02-10-004-03,S2ec,U+FDA1C,󽨜,6,16
+BaseSymbol_494,Wrist Circle Front Wall Single,02-10-005-01,S2ed,U+FDA1D,󽨝,3,16
+BaseSymbol_495,Wrist Circle Front Wall Double,02-10-005-02,S2ee,U+FDA1E,󽨞,3,16
+BaseSymbol_496,Wrist Circle Hits Wall Single,02-10-006-01,S2ef,U+FDA1F,󽨟,3,6
+BaseSymbol_497,Wrist Circle Hits Wall Double,02-10-006-02,S2f0,U+FDA20,󽨠,3,6
+BaseSymbol_498,Finger Circles Wall Single,02-10-007-01,S2f1,U+FDA21,󽨡,2,8
+BaseSymbol_499,Finger Circles Wall Double,02-10-007-02,S2f2,U+FDA22,󽨢,2,8
+BaseSymbol_500,Finger Circles Hits Wall Single,02-10-007-03,S2f3,U+FDA23,󽨣,2,8
+BaseSymbol_501,Finger Circles Hits Wall Double,02-10-007-04,S2f4,U+FDA24,󽨤,2,8
+BaseSymbol_502,Arrowheads Small,02-10-008-01,S2f5,U+FDA25,󽨥,6,8
+BaseSymbol_503,Arrowheads Large,02-10-008-02,S2f6,U+FDA26,󽨦,6,8
+BaseSymbol_504,Fast,03-01-001-01,S2f7,U+FDA27,󽨧,4,1
+BaseSymbol_505,Slow,03-01-002-01,S2f8,U+FDA28,󽨨,1,8
+BaseSymbol_506,Tense,03-01-003-01,S2f9,U+FDA29,󽨩,4,1
+BaseSymbol_507,Relaxed,03-01-003-02,S2fa,U+FDA2A,󽨪,4,1
+BaseSymbol_508,Same Time,03-01-004-01,S2fb,U+FDA2B,󽨫,1,8
+BaseSymbol_509,Same Time Alternating,03-01-004-02,S2fc,U+FDA2C,󽨬,1,8
+BaseSymbol_510,Every Other Time,03-01-004-03,S2fd,U+FDA2D,󽨭,1,8
+BaseSymbol_511,Gradual,03-01-004-04,S2fe,U+FDA2E,󽨮,1,8
+BaseSymbol_512,Head,04-01-001-01,S2ff,U+FDA2F,󽨯,4,4
+BaseSymbol_513,Head Rims,04-01-002-01,S300,U+FDA30,󽨰,1,8
+BaseSymbol_514,Head Movement Straight Wall Plane,04-01-003-01,S301,U+FDA31,󽨱,6,8
+BaseSymbol_515,Head Movement Tilts Wall Plane,04-01-004-01,S302,U+FDA32,󽨲,6,2
+BaseSymbol_516,Head Movement Straight Floor Plane,04-01-005-01,S303,U+FDA33,󽨳,6,8
+BaseSymbol_517,Head Movement Curves Wall Plane,04-01-006-01,S304,U+FDA34,󽨴,2,4
+BaseSymbol_518,Head Movement Curves Floor Plane,04-01-007-01,S305,U+FDA35,󽨵,2,4
+BaseSymbol_519,Head Movement Circles,04-01-008-01,S306,U+FDA36,󽨶,2,4
+BaseSymbol_520,"Face Direction Positions, Nose Forward Tilting",04-01-009-01,S307,U+FDA37,󽨷,6,2
+BaseSymbol_521,"Face Direction Positions, Nose Up or Down",04-01-010-01,S308,U+FDA38,󽨸,3,16
+BaseSymbol_522,"Face Direction Positions, Nose Up or Down Tilting",04-01-010-02,S309,U+FDA39,󽨹,3,16
+BaseSymbol_523,Eyebrows Straight Up,04-02-001-01,S30a,U+FDA3A,󽨺,6,1
+BaseSymbol_524,Eyebrows Straight Neutral,04-02-001-02,S30b,U+FDA3B,󽨻,6,1
+BaseSymbol_525,Eyebrows Straight Down,04-02-001-03,S30c,U+FDA3C,󽨼,6,1
+BaseSymbol_526,Dreamy Eyebrows Neutral Down,04-02-002-01,S30d,U+FDA3D,󽨽,6,1
+BaseSymbol_527,Dreamy Eyebrows Down Neutral,04-02-002-02,S30e,U+FDA3E,󽨾,6,1
+BaseSymbol_528,Dreamy Eyebrows Up Neutral,04-02-002-03,S30f,U+FDA3F,󽨿,6,1
+BaseSymbol_529,Dreamy Eyebrows Neutral-Up,04-02-002-04,S310,U+FDA40,󽩀,6,1
+BaseSymbol_530,Forehead Neutral,04-02-003-01,S311,U+FDA41,󽩁,2,1
+BaseSymbol_531,Forehead Contact,04-02-003-02,S312,U+FDA42,󽩂,2,1
+BaseSymbol_532,Forehead Wrinkled,04-02-003-03,S313,U+FDA43,󽩃,2,1
+BaseSymbol_533,Eyes Open,04-02-004-01,S314,U+FDA44,󽩄,5,1
+BaseSymbol_534,Eyes Squeezed,04-02-004-02,S315,U+FDA45,󽩅,5,1
+BaseSymbol_535,Eyes Closed,04-02-004-03,S316,U+FDA46,󽩆,5,1
+BaseSymbol_536,Eye Blink Single,04-02-004-04,S317,U+FDA47,󽩇,5,1
+BaseSymbol_537,Eye Blinks Multiple,04-02-004-05,S318,U+FDA48,󽩈,5,1
+BaseSymbol_538,Eyes Half Open,04-02-005-01,S319,U+FDA49,󽩉,5,1
+BaseSymbol_539,Eyes Wide Open,04-02-005-02,S31a,U+FDA4A,󽩊,5,1
+BaseSymbol_540,Eyes Half Closed,04-02-005-03,S31b,U+FDA4B,󽩋,5,1
+BaseSymbol_541,Eyes Widening Movement,04-02-005-04,S31c,U+FDA4C,󽩌,5,1
+BaseSymbol_542,Eye Wink (Squeezed Eye Blink),04-02-005-05,S31d,U+FDA4D,󽩍,5,1
+BaseSymbol_543,Eyelashes Up,04-02-006-01,S31e,U+FDA4E,󽩎,5,1
+BaseSymbol_544,Eyelashes Down,04-02-006-02,S31f,U+FDA4F,󽩏,5,1
+BaseSymbol_545,Eyelashes Fluttering,04-02-006-03,S320,U+FDA50,󽩐,5,1
+BaseSymbol_546,Eyegaze Straight Wall Plane,04-02-007-01,S321,U+FDA51,󽩑,4,8
+BaseSymbol_547,Eyegaze Straight Wall Double,04-02-007-02,S322,U+FDA52,󽩒,4,8
+BaseSymbol_548,Eyegaze Straight Wall Alternate,04-02-007-03,S323,U+FDA53,󽩓,4,8
+BaseSymbol_549,Eyegaze Straight Floor Plane,04-02-008-01,S324,U+FDA54,󽩔,4,8
+BaseSymbol_550,Eyegaze Straight Floor Double,04-02-008-02,S325,U+FDA55,󽩕,4,8
+BaseSymbol_551,Eyegaze Straight Floor Alternate,04-02-008-03,S326,U+FDA56,󽩖,4,8
+BaseSymbol_552,Eyegaze Curved Wall Plane,04-02-009-01,S327,U+FDA57,󽩗,3,16
+BaseSymbol_553,Eyegaze Curved Floor Plane,04-02-010-01,S328,U+FDA58,󽩘,3,8
+BaseSymbol_554,Eyegaze Circles Wall Plane,04-02-011-01,S329,U+FDA59,󽩙,3,8
+BaseSymbol_555,Cheeks Puffed,04-03-001-01,S32a,U+FDA5A,󽩚,5,1
+BaseSymbol_556,Cheeks Neutral,04-03-001-02,S32b,U+FDA5B,󽩛,5,1
+BaseSymbol_557,Cheeks Sucked,04-03-001-03,S32c,U+FDA5C,󽩜,5,1
+BaseSymbol_558,Tense Cheeks High,04-03-002-01,S32d,U+FDA5D,󽩝,4,1
+BaseSymbol_559,Tense Cheeks Middle,04-03-002-02,S32e,U+FDA5E,󽩞,4,1
+BaseSymbol_560,Tense Cheeks Low,04-03-002-03,S32f,U+FDA5F,󽩟,4,1
+BaseSymbol_561,Ears,04-03-003-01,S330,U+FDA60,󽩠,5,1
+BaseSymbol_562,Nose Neutral,04-03-004-01,S331,U+FDA61,󽩡,2,1
+BaseSymbol_563,Nose Contact,04-03-004-02,S332,U+FDA62,󽩢,2,1
+BaseSymbol_564,Nose Wrinkles,04-03-004-03,S333,U+FDA63,󽩣,2,1
+BaseSymbol_565,Nose Wiggles,04-03-004-04,S334,U+FDA64,󽩤,2,1
+BaseSymbol_566,Air Blowing Out,04-03-005-01,S335,U+FDA65,󽩥,6,1
+BaseSymbol_567,Air Sucking In,04-03-005-02,S336,U+FDA66,󽩦,6,1
+BaseSymbol_568,Air Blow Small Rotations,04-03-006-01,S337,U+FDA67,󽩧,2,8
+BaseSymbol_569,Air Suck Small Rotations,04-03-006-02,S338,U+FDA68,󽩨,2,8
+BaseSymbol_570,Breath Exhale,04-03-007-01,S339,U+FDA69,󽩩,6,1
+BaseSymbol_571,Breath Inhale,04-03-007-02,S33a,U+FDA6A,󽩪,6,1
+BaseSymbol_572,Mouth Closed Neutral,04-04-001-01,S33b,U+FDA6B,󽩫,2,1
+BaseSymbol_573,Mouth Closed Forward,04-04-001-02,S33c,U+FDA6C,󽩬,2,1
+BaseSymbol_574,Mouth Closed Contact,04-04-001-03,S33d,U+FDA6D,󽩭,2,1
+BaseSymbol_575,Mouth Smile,04-04-002-01,S33e,U+FDA6E,󽩮,2,1
+BaseSymbol_576,Mouth Smile Wrinkled,04-04-002-02,S33f,U+FDA6F,󽩯,2,1
+BaseSymbol_577,Mouth Smile Open,04-04-002-03,S340,U+FDA70,󽩰,2,1
+BaseSymbol_578,Mouth Frown,04-04-003-01,S341,U+FDA71,󽩱,2,1
+BaseSymbol_579,Mouth Frown Wrinkled,04-04-003-02,S342,U+FDA72,󽩲,2,1
+BaseSymbol_580,Mouth Frown Open,04-04-003-03,S343,U+FDA73,󽩳,2,1
+BaseSymbol_581,Mouth Open Circle,04-04-004-01,S344,U+FDA74,󽩴,2,1
+BaseSymbol_582,Mouth Open Forward,04-04-004-02,S345,U+FDA75,󽩵,2,1
+BaseSymbol_583,Mouth Open Wrinkled,04-04-004-03,S346,U+FDA76,󽩶,2,1
+BaseSymbol_584,Mouth Open Oval,04-04-005-01,S347,U+FDA77,󽩷,2,1
+BaseSymbol_585,Mouth Open Oval Wrinkled,04-04-005-02,S348,U+FDA78,󽩸,2,1
+BaseSymbol_586,Mouth Open Oval Yawn,04-04-005-03,S349,U+FDA79,󽩹,2,1
+BaseSymbol_587,Mouth Open Rectangle,04-04-006-01,S34a,U+FDA7A,󽩺,2,1
+BaseSymbol_588,Mouth Open Rectangle Wrinkled,04-04-006-02,S34b,U+FDA7B,󽩻,2,1
+BaseSymbol_589,Mouth Open Rectangle Yawn,04-04-006-03,S34c,U+FDA7C,󽩼,2,1
+BaseSymbol_590,Mouth Kiss,04-04-007-01,S34d,U+FDA7D,󽩽,2,1
+BaseSymbol_591,Mouth Kiss Forward,04-04-007-02,S34e,U+FDA7E,󽩾,2,1
+BaseSymbol_592,Mouth Kiss Wrinkled,04-04-007-03,S34f,U+FDA7F,󽩿,2,1
+BaseSymbol_593,Mouth Tense,04-04-008-01,S350,U+FDA80,󽪀,2,1
+BaseSymbol_594,Mouth Tense Forward,04-04-008-02,S351,U+FDA81,󽪁,2,1
+BaseSymbol_595,Mouth Tense Sucked,04-04-008-03,S352,U+FDA82,󽪂,2,1
+BaseSymbol_596,Lips Pressed Together,04-04-009-01,S353,U+FDA83,󽪃,2,1
+BaseSymbol_597,Lip Lower Over Upper,04-04-009-02,S354,U+FDA84,󽪄,2,1
+BaseSymbol_598,Lip Upper Over Lower,04-04-009-03,S355,U+FDA85,󽪅,2,1
+BaseSymbol_599,Mouth Corners,04-04-010-01,S356,U+FDA86,󽪆,6,1
+BaseSymbol_600,Mouth Wrinkles Single,04-04-011-01,S357,U+FDA87,󽪇,6,1
+BaseSymbol_601,Mouth Wrinkles Double,04-04-011-02,S358,U+FDA88,󽪈,6,1
+BaseSymbol_602,Tongue Sticks Out Far,04-05-001-01,S359,U+FDA89,󽪉,2,8
+BaseSymbol_603,Tongue Licks Lips,04-05-001-02,S35a,U+FDA8A,󽪊,2,8
+BaseSymbol_604,Tongue Tip Between Lips,04-05-001-03,S35b,U+FDA8B,󽪋,2,8
+BaseSymbol_605,Tongue Tip Touches Inside Mouth,04-05-001-04,S35c,U+FDA8C,󽪌,2,8
+BaseSymbol_606,Tongue Inside Mouth Relaxed,04-05-001-05,S35d,U+FDA8D,󽪍,2,8
+BaseSymbol_607,Tongue Moves Against Cheek,04-05-002-01,S35e,U+FDA8E,󽪎,4,8
+BaseSymbol_608,Tongue Center Sticks Out,04-05-003-01,S35f,U+FDA8F,󽪏,6,1
+BaseSymbol_609,Tongue Center Inside Mouth,04-05-004-01,S360,U+FDA90,󽪐,4,1
+BaseSymbol_610,Teeth,04-05-005-01,S361,U+FDA91,󽪑,6,1
+BaseSymbol_611,Teeth Movement,04-05-005-02,S362,U+FDA92,󽪒,6,1
+BaseSymbol_612,Teeth on Tongue,04-05-006-01,S363,U+FDA93,󽪓,6,1
+BaseSymbol_613,Teeth on Tongue Movement,04-05-006-02,S364,U+FDA94,󽪔,6,1
+BaseSymbol_614,Teeth on Lips,04-05-007-01,S365,U+FDA95,󽪕,6,1
+BaseSymbol_615,Teeth on Lips Movement,04-05-007-02,S366,U+FDA96,󽪖,6,1
+BaseSymbol_616,Teeth Bite Lips,04-05-008-01,S367,U+FDA97,󽪗,6,1
+BaseSymbol_617,Jaw Movement Wall Plane,04-05-009-01,S368,U+FDA98,󽪘,3,8
+BaseSymbol_618,Jaw Movement Floor Plane,04-05-010-01,S369,U+FDA99,󽪙,3,8
+BaseSymbol_619,Neck,04-05-011-01,S36a,U+FDA9A,󽪚,6,1
+BaseSymbol_620,Hair,04-05-012-01,S36b,U+FDA9B,󽪛,4,1
+BaseSymbol_621,Excitement,04-05-013-01,S36c,U+FDA9C,󽪜,4,1
+BaseSymbol_622,Shoulder Hip Spine,05-01-001-01,S36d,U+FDA9D,󽪝,3,4
+BaseSymbol_623,Shoulder Hip Positions,05-01-002-01,S36e,U+FDA9E,󽪞,5,6
+BaseSymbol_624,Shoulder Hip Move Wall Plane,05-01-003-01,S36f,U+FDA9F,󽪟,6,16
+BaseSymbol_625,Shoulder Hip Move Floor Plane,05-01-004-01,S370,U+FDAA0,󽪠,6,16
+BaseSymbol_626,Shoulder Tilts (from Waist),05-01-005-01,S371,U+FDAA1,󽪡,6,16
+BaseSymbol_627,Torso Straight Stretch Wall,05-01-006-01,S372,U+FDAA2,󽪢,4,4
+BaseSymbol_628,Torso Curved Bend Wall,05-01-007-01,S373,U+FDAA3,󽪣,4,4
+BaseSymbol_629,Torso Twist Floor Plane,05-01-008-01,S374,U+FDAA4,󽪤,4,4
+BaseSymbol_630,Upper Body Tilts (from Hip Joints),05-01-009-01,S375,U+FDAA5,󽪥,6,8
+BaseSymbol_631,Limb Combinations,05-02-001-01,S376,U+FDAA6,󽪦,1,16
+BaseSymbol_632,Limb Length 1,05-02-002-01,S377,U+FDAA7,󽪧,2,16
+BaseSymbol_633,Limb Length 2,05-02-002-02,S378,U+FDAA8,󽪨,2,16
+BaseSymbol_634,Limb Length 3,05-02-002-03,S379,U+FDAA9,󽪩,2,16
+BaseSymbol_635,Limb Length 4,05-02-002-04,S37a,U+FDAAA,󽪪,2,16
+BaseSymbol_636,Limb Length 5,05-02-003-01,S37b,U+FDAAB,󽪫,2,16
+BaseSymbol_637,Limb Length 6,05-02-003-02,S37c,U+FDAAC,󽪬,2,16
+BaseSymbol_638,Limb Length 7,05-02-003-03,S37d,U+FDAAD,󽪭,2,16
+BaseSymbol_639,Fingers,05-02-004-01,S37e,U+FDAAE,󽪮,6,16
+BaseSymbol_640,Location Space Wall Plane,06-01-001-01,S37f,U+FDAAF,󽪯,4,8
+BaseSymbol_641,Location Space Floor Plane,06-01-001-02,S380,U+FDAB0,󽪰,4,8
+BaseSymbol_642,Location Height,06-01-002-01,S381,U+FDAB1,󽪱,2,8
+BaseSymbol_643,Location Width,06-01-003-01,S382,U+FDAB2,󽪲,1,9
+BaseSymbol_644,Location Depth,06-01-004-01,S383,U+FDAB3,󽪳,1,8
+BaseSymbol_645,Location Head Neck,06-01-005-01,S384,U+FDAB4,󽪴,6,8
+BaseSymbol_646,Location Torso,06-01-006-01,S385,U+FDAB5,󽪵,5,8
+BaseSymbol_647,Location Limbs Digits,06-01-007-01,S386,U+FDAB6,󽪶,6,16
+BaseSymbol_648,Comma,07-01-001-01,S387,U+FDAB7,󽪷,4,8
+BaseSymbol_649,Period,07-01-001-02,S388,U+FDAB8,󽪸,4,8
+BaseSymbol_650,Semicolon,07-01-002-01,S389,U+FDAB9,󽪹,1,8
+BaseSymbol_651,Colon,07-01-002-02,S38a,U+FDABA,󽪺,1,8
+BaseSymbol_652,Parentheses,07-01-003-01,S38b,U+FDABB,󽪻,1,8
