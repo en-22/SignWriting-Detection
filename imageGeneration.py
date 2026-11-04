@@ -2,7 +2,6 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 import random
 import csv
-import time
 
 #https://docs.ultralytics.com/datasets/
 
@@ -312,8 +311,9 @@ def imgGenAlexNet(folder, symbol_range, rot_alternatives = 0, margin_frac=0.15):
         "main_class_labels_no_rot",  #0 ... 9
         "sec_class_labels",  # 0 ... 13, ..., 0 ... 15
         "all_class_labels",  # 0 ... 260
+        "palm_format_label", # 0... 11
+        "pfl_simpl", # 0 ... 7
     ]
-
     labels = {label: [] for label in label_types}
 
     class_map = []
@@ -325,7 +325,9 @@ def imgGenAlexNet(folder, symbol_range, rot_alternatives = 0, margin_frac=0.15):
                 "main_class": int(row[1]), 
                 "sec_class": int(row[2]), 
                 "fill": int(row[3]), 
-                "max_fills": int(row[5])
+                "max_fills": int(row[5]),
+                "palm_form": int(row[7]),
+                "pf_simpl": int(row[8])
             })
 
     int_name = 0
@@ -335,6 +337,8 @@ def imgGenAlexNet(folder, symbol_range, rot_alternatives = 0, margin_frac=0.15):
         fill = class_map[i]["fill"]
         main_class = class_map[i]["main_class"]
         sec_class = class_map[i]["sec_class"]
+        palm_form = class_map[i]["palm_form"]
+        pf_simpl = class_map[i]["pf_simpl"]
 
         rotations = [0] + random.sample(range(1, 8), rot_alternatives)
         
@@ -371,7 +375,8 @@ def imgGenAlexNet(folder, symbol_range, rot_alternatives = 0, margin_frac=0.15):
                 labels["main_class_labels_no_rot"].append([img_name, main_class])
                 labels["sec_class_labels"].append([img_name, sec_class])
                 labels["all_class_labels"].append([img_name, sec_class_sum_per_main[main_class] + sec_class])
-               
+                labels["palm_format_label"].append([img_name, palm_form])
+                labels["pfl_simpl"].append([img_name, pf_simpl])
              
             canvas.save(output_path / img_name)
             int_name+=1

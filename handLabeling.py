@@ -1,6 +1,5 @@
 from pathlib import Path
 import csv 
-
 # 12 - "1, 2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16"
 # 342 357 - "1, 2, 4, 5, 6, 8" 
 # 04-01-010-02-01-04/08/12.svg Foram criados por mim
@@ -33,6 +32,14 @@ with open("help.csv", "r", newline="") as file:
 # 10 - diagonal rectangle / / / / 52 54 / / / / / /
 # 11 - horizontal rectangle / / / /  / / / / / 2 16 <- definitivamente menor
 
+# 0 - squ
+# 1 - circ
+# 2 - oval rec / claw
+# 3 - rec / hor rec
+# 4 - palm / palm thin
+# 5 - palm peace / palm peace thin
+# 6 - snail
+# 7 - diag rec
 
 pf_1 = [0, 1, 2, 4, 4, 4, 0, 1, 0, 0, 0, 0, 0, 1]
 pf_2 = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
@@ -46,7 +53,27 @@ pf_9 = [0, 1, 9, 2, 4, 4, 4, 4, 1, 4, 4, 4, 4, 4, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 
 pf_10 = [0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]
 
 palm_formats = [pf_1, pf_2, pf_3, pf_4, pf_5, pf_6, pf_7, pf_8, pf_9, pf_10]
+pf_simps = [[0] * len(pf_1), [0] * len(pf_2), [0] * len(pf_3), [0] * len(pf_4), [0] * len(pf_5), [0] * len(pf_6), [0] * len(pf_7), [0] * len(pf_8), [0] * len(pf_9), [0] * len(pf_10)]
 
+for i, group in enumerate(palm_formats):
+    for j, sec_group in enumerate(group):
+        format = sec_group
+        if format== 3:
+            pf_simps[i][j] = 2
+        elif format== 4 or format== 11:
+            pf_simps[i][j] = 3
+        elif format== 5 or format== 8:
+            pf_simps[i][j] = 4
+        elif format== 6 or format== 7:
+            pf_simps[i][j] = 5
+        elif format== 9:
+            pf_simps[i][j] = 6
+        elif format== 10:
+            pf_simps[i][j] = 7
+        else:
+            pf_simps[i][j] = format
+
+print(pf_simps)
 #HANDS
 hand_fill = 0
 csv_id = 0
@@ -61,9 +88,9 @@ for file in temp_sort_H:
     sec_group_id = int(c)-1
     fill_id = int(e)-1
     palm_format = palm_formats[main_group_id][sec_group_id]
-
+    pf_simp = pf_simps[main_group_id][sec_group_id]
     class_map.append(
-        f"{class_id}, {main_group_id}, {sec_group_id}, {fill_id}, \"{class_name} {class_name_add}\", {fill}, {rot}, {file} {palm_format}"
+        f"{class_id}, {main_group_id}, {sec_group_id}, {fill_id}, \"{class_name} {class_name_add}\", {fill}, {rot}, {file} {palm_format} {pf_simp}"
     )
     hand_fill += 1
     class_id += 1 
